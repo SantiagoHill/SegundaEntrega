@@ -1,0 +1,17 @@
+$color-h1: rgb(255, 255, 255);
+$footer-color:red;
+
+
+.h5index {
+    color: $color-h1;
+
+    &:hover {
+        color: lightblue;
+    }
+}
+
+.test {
+    &:hover {
+        color: lightgoldenrodyellow;
+    }
+}
